@@ -108,7 +108,7 @@ export const Home = () => {
       <div style={{ display: "flex", gap: "2rem", flexWrap: "wrap" }}>
         <div style={{ display: "flex", gap: "2rem", flexWrap: "wrap" }}>
           <Link
-            href="/real-talk"
+            href="/previous-talk"
             ref={button1Ref}
             style={{
               display: "inline-block",
